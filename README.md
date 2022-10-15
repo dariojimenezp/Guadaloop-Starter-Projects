@@ -20,8 +20,8 @@ Repository for Guadaloop Gen 2 Starter Projects
 
 [TM4C User Manual](http://users.ece.utexas.edu/~valvano/Volume1/TM4C123_LaunchPadUsersManual.pdf): User manual for the TM4C. useful for finding additional resources on the TM4C and getting started in using it.
 
-[MCP9808 Temperature Sensor Documentation](https://cdn-shop.adafruit.com/datasheets/MCP9808.pdf): Documentation for the MCP9808 Temperature Sensor. Very useful for finding relevant datasheets, wiring diagrams, PCB shcematics, etc.
+[MCP9808 Temperature Sensor Documentation](https://learn.adafruit.com/adafruit-mcp9808-precision-i2c-temperature-sensor-guide/overview): Documentation for the MCP9808 Temperature Sensor. Very useful for finding relevant datasheets, wiring diagrams, PCB shcematics, etc.
 
-[TCS34725 RGB sensor Documentation](https://cdn-shop.adafruit.com/datasheets/TCS34725.pdf): Documentation for the TCS34725 RGB sensor. Very useful for finding relevant datasheets, wiring diagrams, PCB shcematics, etc.
+[TCS34725 RGB sensor Documentation](https://learn.adafruit.com/adafruit-color-sensors/overview): Documentation for the TCS34725 RGB sensor. Very useful for finding relevant datasheets, wiring diagrams, PCB shcematics, etc.
 
 [NPX IMU Documentation](https://learn.adafruit.com/nxp-precision-9dof-breakout/overview): Documentation for the NPX IMU sensor. Very useful for finding relevant datasheets, wiring diagrams, PCB shcematics, etc.
