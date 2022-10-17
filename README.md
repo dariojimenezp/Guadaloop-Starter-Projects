@@ -26,6 +26,6 @@ Repository for Guadaloop Gen 2 Starter Projects
 
 [NPX IMU Documentation](https://learn.adafruit.com/nxp-precision-9dof-breakout/overview): Documentation for the NPX IMU sensor. Very useful for finding relevant datasheets, wiring diagrams, PCB shcematics, etc.
 
-[Installing Code Composer Studio](): Tutorial for installing Code Composer Studio.
+[Installing Code Composer Studio](https://ut-ras.github.io/UTRASWare/#ccs-windows-mac-linux): Tutorial for installing Code Composer Studio.
 
 [Creating a Project in Code Composer Studio](https://ut-ras.github.io/UTRASWare/#creating-your-first-project): Tutorial for creating a project for the TM4C in Code Composer Studio (CSS).
