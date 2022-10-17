@@ -25,3 +25,7 @@ Repository for Guadaloop Gen 2 Starter Projects
 [TCS34725 RGB sensor Documentation](https://learn.adafruit.com/adafruit-color-sensors/overview): Documentation for the TCS34725 RGB sensor. Very useful for finding relevant datasheets, wiring diagrams, PCB shcematics, etc.
 
 [NPX IMU Documentation](https://learn.adafruit.com/nxp-precision-9dof-breakout/overview): Documentation for the NPX IMU sensor. Very useful for finding relevant datasheets, wiring diagrams, PCB shcematics, etc.
+
+[Installing Code Composer Studio](https://ut-ras.github.io/UTRASWare/#ccs-windows-mac-linux): Tutorial for installing Code Composer Studio.
+
+[Creating a Project in Code Composer Studio](https://ut-ras.github.io/UTRASWare/#creating-your-first-project): Tutorial for creating a project for the TM4C in Code Composer Studio (CSS).
